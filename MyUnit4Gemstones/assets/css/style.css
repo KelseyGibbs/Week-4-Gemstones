@@ -1,0 +1,61 @@
+body {
+    background-color: #FB5012;
+    font-family: 'Exo', sans-serif;
+}
+
+#funky {
+    border-radius: 20%;
+}
+
+#title {
+    font-size: .6in;
+    text-align: center;
+}
+
+.container {
+    background-color: #FB5012;
+    font-family: 'Exo', sans-serif;
+    margin-top: .2in;
+}
+
+.row {
+    background-color: #DDFDFE;
+    padding: .02in;
+}
+
+#goal {
+    font-size: .4in;
+}
+
+#first {
+    background-color: #FFB8D1;
+    box-shadow: 5px 10px #AF9FA5;
+    padding: .1in;
+}
+
+#second { 
+    background-color: #E9DF00;
+    box-shadow: 5px 10px #AF9FA5;
+    padding: .1in;
+}
+
+#third {
+    background-color: #03FCBA;
+    box-shadow: 5px 10px #AF9FA5;
+    padding: .1in;
+}
+
+#fourth {
+    background-color: #CBBAED;
+    box-shadow: 5px 10px #AF9FA5;
+    padding: .1in;
+}
+
+.col-sm-6 {
+    padding-top: .5in;
+}
+#score {
+    font-size: .4in;
+}
+
+/* A63A50 */
