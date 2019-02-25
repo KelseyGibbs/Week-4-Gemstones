@@ -8,7 +8,7 @@ When the game starts, the game will chage the values of each crystal.
 #
 ## Credits
 
-Trilogy Bootcamp
+Kelsey Gibbs - Triology Bootcamp Week 4
 
 ## License
 
